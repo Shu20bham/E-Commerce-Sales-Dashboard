@@ -18,9 +18,9 @@ This project provides an *end-to-end analysis of E-Commerce sales data for 2024*
 
 Ecommerce-Sales-Analysis-2024
 
- * ecommerce_2024.csv   # Raw dataset
- * ecommerce_2024.pbix  # Power BI dashboard
- * README.md            # Project documentation
+ * ecommerce_2024.csv      -Raw dataset
+ * ecommerce_2024.pbix     -Power BI dashboard
+ * README.md               -Project documentation
 
 
 ## Dataset Details (ecommerce_2024.csv)
